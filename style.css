@@ -447,6 +447,14 @@ nav .caret {
     margin-bottom: 20px;
 }
 
+.card-us .mg-md {
+    font-size: 25px;
+}
+
+.card-us .us {
+    font-size: 15px;
+}
+
 .mg-lg {
     margin-top: 10px;
     margin-bottom: 40px;
@@ -654,8 +662,7 @@ h5,
 h6,
 p,
 label,
-.btn,
-a {
+.btn {
     font-family: "helvetica";
     font-weight: 400;
     color: #575757 !important;
@@ -688,7 +695,7 @@ p {
 }
 
 .tight-width-whitespace {
-    max-width: 600px;
+    max-width: 1000px;
     margin: auto auto auto auto;
 }
 
@@ -744,6 +751,7 @@ h4 {
 
 .white {
     color: #FFFFFF !important;
+    font-size: 20px;
 }
 
 .portfolio-thumb {
@@ -783,6 +791,7 @@ h4 {
 
 .tc-white {
     color: #F3976C !important;
+    font-size: 40px;
 }
 
 .btn-atomic-tangerine {
@@ -1082,4 +1091,17 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+.citation {
+    font-size: 20px;
+    font-style: italic;
+}
+
+.contact p {
+    font-size: 20px;
+}
+
+footer a {
+    color: black;
 }
